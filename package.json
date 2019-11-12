@@ -1,0 +1,15 @@
+{
+  "name": "gostack-challenge-gympoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gtargino/gostack-challenge-gympoint",
+  "author": "gtargino <gustavodiniztargino@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "sucrase": "^3.10.1"
+  }
+}
