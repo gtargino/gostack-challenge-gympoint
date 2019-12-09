@@ -9,7 +9,6 @@ class Student extends Model {
                 age: Sequelize.STRING,
                 weight: Sequelize.STRING,
                 height: Sequelize.STRING,
-                type: Sequelize.STRING,
             },
             { sequelize }
         );
