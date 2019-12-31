@@ -17,11 +17,11 @@
 </h3>
 
 <p align="center">
-  <a href="#rocket-i-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-ii-sobre-o-desafio-pt-II">Sobre o desafio - pt. II</a>
+  <a href="#rocket-[i]-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-[ii]-sobre-o-desafio-pt-II">Sobre o desafio - pt. II</a>
 </p>
 
-<p>
+<p lign="center">
     <a href="#memo-licença">Licença</a>
 </p>
 
