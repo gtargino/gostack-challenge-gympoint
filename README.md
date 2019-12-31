@@ -108,7 +108,7 @@ O aluno não pode se autenticar no sistema, ou seja, não possui senha.
   Desafio 2: Gympoint, continuando a aplicação
 </h3>
 
-## :rocket: [II] Sobre o desafio
+## :rocket: Sobre o desafio pt. II
 
 Durante esse desafio vamos aprimorar a aplicação Gympoint que demos início no desafio anterior implementando funcionalidades que aprendemos durante as aulas até agora.
 
