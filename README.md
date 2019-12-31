@@ -105,7 +105,7 @@ O aluno não pode se autenticar no sistema, ou seja, não possui senha.
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-2">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio 2
