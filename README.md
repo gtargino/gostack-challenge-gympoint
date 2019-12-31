@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;|&nbsp;
   <a href="#rocket-sobre-o-desafio-pt-II">Sobre o desafio - pt. II</a>
 </p>
 
