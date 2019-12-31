@@ -98,18 +98,14 @@ O cadastro de alunos só pode ser feito por administradores autenticados na apli
 
 O aluno não pode se autenticar no sistema, ou seja, não possui senha.
 
-
-
-
-
-
+<h1 align="center">  </h1>
 
 <h3 align="center">
   Desafio 2: Gympoint, continuando a aplicação
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio-2">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Sobre o desafio 2
