@@ -13,15 +13,15 @@
 </p>
 
 <h3 align="center">
-  Desafio 2: Gympoint, o início
+  Desafio 1: Gympoint, o início
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio-x">Sobre o desafio x</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-1">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio x
+## :rocket: Sobre o desafio 1
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
 
@@ -100,15 +100,19 @@ O aluno não pode se autenticar no sistema, ou seja, não possui senha.
 
 
 
+
+
+
+
 <h3 align="center">
-  Desafio 3: Gympoint, continuando a aplicação
+  Desafio 2: Gympoint, continuando a aplicação
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio 3</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-2">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## :rocket: Sobre o desafio 3
+## :rocket: Sobre o desafio 2
 
 Durante esse desafio vamos aprimorar a aplicação Gympoint que demos início no desafio anterior implementando funcionalidades que aprendemos durante as aulas até agora.
 
