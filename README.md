@@ -17,11 +17,11 @@
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio 2</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-desafio-x">Sobre o desafio x</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio 2
+## :rocket: Sobre o desafio x
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
 
