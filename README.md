@@ -12,15 +12,15 @@
   </a>
 </p>
 
-<h3 align="center">
-  Desafio 1: Gympoint, o início
-</h3>
-
 <p align="center">
   <a href="#rocket-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;|&nbsp;
   <a href="#rocket-sobre-o-desafio-pt-II">Sobre o desafio - pt. II</a>&nbsp;&nbsp;|&nbsp;
     <a href="#memo-licença">Licença</a>
 </p>
+
+<h3 align="center">
+  Desafio 1: Gympoint, o início
+</h3>
 
 ## :rocket: Sobre o desafio pt. I
 
