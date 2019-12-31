@@ -22,7 +22,7 @@
   Desafio 1: Gympoint, o início
 </h3>
 
-## :rocket: Sobre o desafio pt. I
+## :rocket: Sobre o desafio - pt. I
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
 
