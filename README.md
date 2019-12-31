@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio-pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;|&nbsp;
+  <a href="#rocket-sobre-o-desafio--pt-I">Sobre o desafio - pt. I</a>&nbsp;&nbsp;|&nbsp;
   <a href="#rocket-sobre-o-desafio-pt-II">Sobre o desafio - pt. II</a>&nbsp;&nbsp;|&nbsp;
     <a href="#memo-licença">Licença</a>
 </p>
